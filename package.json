@@ -12,5 +12,9 @@
   "dependencies": {
     "express": "^4.16.4",
     "response-time": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viki-v/Express-js-status-api.git"
   }
 }
