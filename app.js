@@ -1,5 +1,4 @@
 const express = require("express");
-const router = express.Router();
 const app = express();
 const port = process.env.PORT || 8008;
 require('events').EventEmitter.defaultMaxListeners = 150;
