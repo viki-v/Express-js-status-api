@@ -1,4 +1,4 @@
-#Status Monitor api 
+Status Monitor api 
 
  ```javascript 
  const express = require("express");
@@ -10,9 +10,9 @@
  status(app);
   
  ```
-###Listening on http://0.0.0.0:8008
+Listening on http://0.0.0.0:8008
 
- ##To RUN APP 
+To RUN APP 
       
 	   npm install 
 	   node app.js or nodemon app.js 
